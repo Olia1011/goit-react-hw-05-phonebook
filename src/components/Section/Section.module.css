@@ -1,0 +1,14 @@
+.section {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    width: 300px;
+    margin: 0 auto;
+    border: 1px solid #15d69d;
+    border-radius: 5px;
+   background-color: rgb(196, 248, 199);
+    padding-bottom: 20px;
+    padding-top: 15px;
+    padding-left: 15px;
+  }
+
